@@ -9,8 +9,8 @@ import (
 )
 
 type Users struct {
-	ID string
-	Name string
+	ID	string
+	Name	string
 	Age	uint8
 }
 
