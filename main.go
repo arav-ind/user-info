@@ -9,9 +9,9 @@ import (
 )
 
 type Users struct {
-	ID string
-	Name string
-	Age	uint8
+	ID		string
+	Name	string
+	Age		uint8
 }
 
 var users []Users
